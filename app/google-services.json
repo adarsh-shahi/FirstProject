@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354836635408",
+    "firebase_url": "https://horizon-2f649.firebaseio.com",
+    "project_id": "horizon-2f649",
+    "storage_bucket": "horizon-2f649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354836635408:android:09b4f4554f910e6f83cf95",
+        "android_client_info": {
+          "package_name": "com.example.horizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354836635408-17hhj4ci7sfr7d8unh7udgmdlsojg167.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.horizon",
+            "certificate_hash": "246d39cadf060fa2c6612949f6d480bc24a85b71"
+          }
+        },
+        {
+          "client_id": "354836635408-9p6umlqo3k3tkdb45jv27g3if77hcj8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8GZhf4fIP5UntfyOHys3vKVfig957BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354836635408-9p6umlqo3k3tkdb45jv27g3if77hcj8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
